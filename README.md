@@ -8,20 +8,29 @@
 
 ## 🚀 About Me  
 
-I'm passionate about technology, clean architecture, and innovation with purpose.  
-I work mainly with **Java (Spring Boot, Microservices, AWS, Docker)** and **Kotlin (Android, Jetpack Compose, REST APIs)**,  
-building scalable and impactful solutions that combine performance, sustainability, and creativity.  
+With 5 years of experience in the technology market following a career transition, I have worked on challenging projects for multinational companies, where I acquired strong technical and professional skills.  
+
+My main skills include:  
+- **Java:** Robust and efficient backend development.  
+- **Spring Boot:** Creating microservices using RESTful APIs.  
+- **Angular:** Developing interactive web applications.  
+- **Unit Testing:** Ensuring quality through automated tests.  
+- **AWS:** Integration with services such as S3, MSK, and Aurora.  
+- **CI/CD:** Automated application delivery pipelines using Jenkins and GitHub Actions.  
+
+I am always seeking new challenges that allow me to apply my knowledge and learn new technologies, contributing to the success of innovative projects.  
 
 ---
 
 ## 🧰 Tech Stack  
 
 🟨 Java • Spring Boot • Maven • JPA/Hibernate  
+🟦 Angular • TypeScript • HTML • CSS  
 🟪 Kotlin • Android Studio • Jetpack Compose • Retrofit  
 ☁️ AWS (S3, MSK, Aurora, EC2)  
 🐘 PostgreSQL • MySQL  
 🐳 Docker • Docker Compose  
-🧠 Git • GitHub Actions • REST APIs • Swagger  
+⚙️ Jenkins • GitHub Actions • REST APIs • Swagger  
 
 ---
 
@@ -34,31 +43,8 @@ building scalable and impactful solutions that combine performance, sustainabili
 
 ---
 
-## 📂 Featured Projects  
-
-| 🧩 Project | 🚀 Description | 🛠️ Technologies |
-|-------------|----------------|----------------|
-| [**HelpWeather**](https://github.com/MilanoDeveloper/HelpWeather) | Android app that displays real-time weather data by location. | Kotlin • Jetpack Compose • OpenWeatherMap API |
-| [**camelproject**](https://github.com/MilanoDeveloper/camelproject) | System integration using Apache Camel and database connection. | Java • Spring Boot • Apache Camel |
-| [**LG-angular-spring**](https://github.com/MilanoDeveloper/LG-angular-spring) | Fullstack app built with Angular and Spring Boot REST API. | Java • Angular • Spring Boot |
-| [**dsmeta**](https://github.com/MilanoDeveloper/dsmeta) | Sales dashboard with backend API and frontend interface. | Java • Spring Boot • React |
-| [**fkaws**](https://github.com/MilanoDeveloper/fkaws) | Java service integration with AWS SDK. | Java • AWS SDK |
-
----
-
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-milano/)  
 📧 **milano.developer@gmail.com**
 
----
-
-## 💡 Fun Facts  
-
-- 🎮 Gamer and *Age of Empires III* fan  
-- ⚙️ Always learning and experimenting with new technologies  
-- 🌍 Creator of **EcoWeather**, a sustainability-focused tech project  
-
----
-
-⭐ *“Code is art — and every line can make an impact.”*
