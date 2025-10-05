@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel Milano
 
-<!--
-**MilanoDeveloper/MilanoDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Java | Kotlin | Spring Boot | AWS  
+🎓 Graduando em Fotografia — Cruzeiro do Sul Virtual  
+🌱 Explorando Blockchain, Web3 e Sustentabilidade Tecnológica  
+🏢 Atualmente na GFT Technologies  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+Java · Spring Boot · Kotlin · AWS · Docker · PostgreSQL · Git · REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MilanoDeveloper&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanoDeveloper&layout=compact&theme=tokyonight)
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-milano/)
