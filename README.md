@@ -23,15 +23,6 @@ With 5 years of experience in the technology market following a career transitio
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MilanoDeveloper&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanoDeveloper&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-milano/)  
